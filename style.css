@@ -91,6 +91,21 @@ h5, h6 {
     padding-bottom: 4px !important;
 }
 
+.card .card-content .card-title {
+    font-size: 20px;
+}
+
+.list_of_keywords {
+    padding-top: 10px;
+    font-style: italic;
+}
+
+.list_of_keywords .keyword {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-style: normal;
+}
+
 .collapsible-header b {
     font-weight: bold;
     font-size: 1.05em;
